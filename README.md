@@ -1,5 +1,5 @@
-☕ Coffee Shop Sales Analysis Dashboard
-📌 Project Overview
+## ☕ Coffee Shop Sales Analysis Dashboard
+## 📌 Project Overview
 
 This project presents an interactive Tableau dashboard analyzing the sales performance of a coffee shop. The dashboard highlights key metrics such as total transactions, total sales, and total items ordered, along with detailed breakdowns by product categories, store locations, and time-based patterns.
 

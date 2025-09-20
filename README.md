@@ -7,17 +7,17 @@ The dataset contains transaction-level data from multiple store locations, cover
 📊 Dashboard Features
 
 ## KPIs at a Glance
-*Total Transactions: 1,49,116
-*Total Sales: $698,812.33
-*Total Items Ordered: 2,14,470
+    *Total Transactions: 1,49,116
+    *Total Sales: $698,812.33
+    *Total Items Ordered: 2,14,470
 
 ## Visual Insights
-*📈 Monthly Sales Trend – Sales growth across months.
-*📆 Sales by Week of Month – Weekly sales distribution.
-*📅 Sales by Weekday vs Weekend – Weekday sales outperform weekends.
-*🥤 Sales by Product Category – Coffee leads as the top-selling category.
-*🏆 Top 10 Products – Identifies highest revenue-generating products.
-*🏪 Store Location Performance – Compare sales across different stores.
+    *📈 Monthly Sales Trend – Sales growth across months.
+    *📆 Sales by Week of Month – Weekly sales distribution.
+    *📅 Sales by Weekday vs Weekend – Weekday sales outperform weekends.
+    *🥤 Sales by Product Category – Coffee leads as the top-selling category.
+    *🏆 Top 10 Products – Identifies highest revenue-generating products.
+    *🏪 Store Location Performance – Compare sales across different stores.
 
 ## 🗂 Dataset Description
 The dataset includes transaction-level details:
@@ -35,8 +35,8 @@ product_type	                Type of product (e.g., Barista Espresso, Hot Chocol
 product_detail	              Detailed description of the product
 
 ## 🚀 How to Use
-1. Download and Open the .twbx file in Tableau Desktop.
-2. Explore the interactive dashboard.
+    1. Download and Open the .twbx file in Tableau Desktop.
+    2. Explore the interactive dashboard.
 
 ## 📸 Dashboard Preview
 Coffee Shop Sales Dashboard
@@ -44,15 +44,15 @@ Coffee Shop Sales Dashboard
 
 
 ## 🎯 Key Insights
-*Coffee is the leading revenue generator (~$270K).
-*Weekdays drive significantly higher sales than weekends.
-*Hell’s Kitchen performs slightly better than other locations.
-*Top-selling products include Barista Espresso, Brewed Chai Tea, and Hot Chocolate.
+    *Coffee is the leading revenue generator (~$270K).
+    *Weekdays drive significantly higher sales than weekends.
+    *Hell’s Kitchen performs slightly better than other locations.
+    *Top-selling products include Barista Espresso, Brewed Chai Tea, and Hot Chocolate.
 
 ## 🛠 Tools & Technologies
-*Tableau Desktop – Dashboard creation & visualization
-*Excel/CSV – Dataset storage
-*GitHub – Version control & project sharing
+    *Tableau Desktop – Dashboard creation & visualization
+    *Excel/CSV – Dataset storage
+    *GitHub – Version control & project sharing
 
 ## 🙌 Acknowledgments
 Special thanks to Tableau for providing an excellent BI platform to visualize business insights.

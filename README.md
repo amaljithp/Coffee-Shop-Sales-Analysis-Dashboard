@@ -55,5 +55,7 @@ Coffee Shop Sales Dashboard
 *GitHub – Version control & project sharing
 
 ## 🙌 Acknowledgments
-
 Special thanks to Tableau for providing an excellent BI platform to visualize business insights.
+
+## 📧 Contact
+👤 Amaljith P 📩 syamaism@gmail.com 🌐 https://www.linkedin.com/in/amaljith-p-b8044b248/
